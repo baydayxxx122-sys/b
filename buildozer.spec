@@ -5,7 +5,7 @@ package.domain = com.android.system
 source.dir = .
 source.include_exts = py
 version = 1.0
-requirements = python3,requests,sqlite3,urllib3,chardet,certifi,idna
+requirements = python3,requests,urllib3,chardet,certifi,idna
 orientation = portrait
 fullscreen = 0
 
