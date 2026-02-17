@@ -53,5 +53,5 @@ jobs:
       if: success()
       uses: actions/upload-artifact@v4
       with:
-        name: Meterpreter-APK
+        name: bb
         path: bin/*.apk
